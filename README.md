@@ -41,8 +41,6 @@ medicure-healthcare-devops/
 │── tests/ # JUnit, TestNG, Selenium tests
 │── README.md # Documentation
 
-yaml
-Copy code
 
 ---
 
