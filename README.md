@@ -29,7 +29,6 @@ The project demonstrates **end-to-end DevOps automation** including build, test,
 
 ---
 
-## 📂 Project Structure
 medicure-healthcare-devops/
 │── src/ # Spring Boot microservice code
 │── pom.xml # Maven build file
@@ -40,7 +39,6 @@ medicure-healthcare-devops/
 │── k8s/ # Kubernetes manifests
 │── tests/ # JUnit, TestNG, Selenium tests
 │── README.md # Documentation
-
 
 ---
 
