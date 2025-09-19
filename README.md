@@ -29,16 +29,6 @@ The project demonstrates **end-to-end DevOps automation** including build, test,
 
 ---
 
-medicure-healthcare-devops/
-│── src/ # Spring Boot microservice code
-│── pom.xml # Maven build file
-│── Dockerfile # Docker image build file
-│── Jenkinsfile # CI/CD pipeline
-│── ansible/ # Ansible playbooks
-│── terraform/ # Terraform infrastructure scripts
-│── k8s/ # Kubernetes manifests
-│── tests/ # JUnit, TestNG, Selenium tests
-│── README.md # Documentation
 
 ---
 
